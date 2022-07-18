@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Quin Smith - GIS Portfolio
 
 You can use the [editor on GitHub](https://github.com/quin-smith/gis_portfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
